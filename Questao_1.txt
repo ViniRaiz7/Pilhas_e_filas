@@ -1,0 +1,3 @@
+A pilha e mais adequada por que permite desfazer as ações na ordem correta da mais recente para a mais antiga,
+enquanto a fila desfaria na ordem errada da mais antiga para a mais recente.
+Por isso, a pilha é a estrutura ideal para implementar a função Desfazer.
