@@ -1,0 +1,6 @@
+Eu escolheria pilha por que os exames sao feitos do ultimo para o primeiro
+A pilha permite armazenar os exames na ordem em que foram feitos e depois recuperar na ordem inversa, exatamente como o hospital precisa.
+
+Eu implementaria com lista encadeada.
+para um sistema que precisa armazenar exames em ordem cronológica e imprimir na ordem inversa, com quantidade variável de exames, a lista encadeada é a melhor escolha.
+
