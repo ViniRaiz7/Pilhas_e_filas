@@ -1,0 +1,5 @@
+Primeiro: Todas as tarefas prioritárias da pilha, na ordem LIFO (última prioritária inserida é a primeira a ser executada).
+Depois: As tarefas normais da fila, na ordem FIFO (primeira tarefa inserida é a primeira a ser executada).
+
+A pilha garante que as tarefas prioritárias sejam resolvidas imediatamente e na ordem correta de prioridade (última prioridade inserida tem maior urgência).
+A fila mantém a ordem cronológica das tarefas normais, garantindo justiça na execução dessas tarefas.
